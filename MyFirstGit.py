@@ -7,4 +7,4 @@ print(b)
 c = b/a
 print(c)
 print("you can may be pull from github it ;)")
-print("Oki it's working perfectlly, now lets Try to pull from gitlab")
+print("Oki it's working perfectly, now lets Try to pull from gitlab")

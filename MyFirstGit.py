@@ -6,4 +6,5 @@ b = 13
 print(b)
 c = b/a
 print(c)
-print("you can may be pull it ;)")
+print("you can may be pull from github it ;)")
+print("Oki it's working perfectlly, now lets Try to pull from gitlab")

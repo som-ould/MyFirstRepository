@@ -6,3 +6,4 @@ b = 13
 print(b)
 c = b/a
 print(c)
+print("you can may be pull it ;)")
